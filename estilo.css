@@ -1,0 +1,30 @@
+h1{
+	background-image: url('hv.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	font-family: "Bungee Spice", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+  	color: mediumvioletred;
+  	text-align: center;
+
+}
+h2{
+	font-family: "Rock Salt", cursive;
+	font-weight: 400;
+  	font-style: normal;
+  	color: black;
+  	text-align: center;
+}
+img{
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+}
+h3{
+	font-family: "Train One", system-ui;
+  	font-weight: 500;
+  	font-style: normal;
+  	text-align: center;
+  	color: mediumvioletred;
+}
