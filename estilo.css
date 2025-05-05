@@ -1,4 +1,4 @@
-h1{
+#h1{
 	background-image: url('hv.png');
 	background-size: contain;
 	background-repeat: no-repeat;
@@ -27,4 +27,10 @@ h3{
   	font-style: normal;
   	text-align: center;
   	color: mediumvioletred;
+}
+
+div h1{
+
+	font-family: arial;
+	text-align: center;
 }
